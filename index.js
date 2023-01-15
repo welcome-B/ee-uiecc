@@ -34,7 +34,7 @@ app.get('/resultat', (req, res) => {
 
 //Retourner les styles
 app.use('/asset', express.static('D:/ngaï/Semestre 6/Technologie et programmation web/moteur_de_recherche/asset/'))
-app.use('/images', express.static('images/'))
+app.use('/images', express.static('/images/'))
 
 
 
