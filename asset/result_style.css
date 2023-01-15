@@ -1,8 +1,8 @@
 body{
-    background-image: url(/images/bg-2.jpg);
+/*     background-image: url(/images/bg-2.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: cover;
+    background-size: cover; */
     margin: 0;
     padding: 0;
 }
