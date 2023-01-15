@@ -8,7 +8,7 @@ const readFileAsync = promisify(readFile)
 const https = require('https')
 
 const READ_OPTIONS = { encoding: 'UTF-8' }
-const INDEX_URL = 'D:/ngaï/Semestre 6/Technologie et programmation web/moteur_de_recherche/public/index.html'
+const INDEX_URL = 'D:/ngaï/Semestre 6/Technologie et programmation web/moteur_de_recherche/index.html'
 // const RESULTAT_URL = 'D:/ngaï/Semestre 6/Technologie et programmation web/moteur_de_recherche/resultat.html'
 
 module.exports = async() => {
