@@ -19,6 +19,7 @@ const genererPageAccueil = require('./pages/index.get.js')
 app.get('/', async(req, res) => {
     const indexHtml = await genererPageAccueil()
     res.send(indexHtml)
+
 })
 
 
