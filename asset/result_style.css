@@ -7,7 +7,7 @@ body{
     padding: 0;
 }
 
-.search_name{
+/* .search_name{
     padding: 0;
     margin: 0 150px 10px;
     font-size: 42px;
@@ -65,7 +65,7 @@ input[type="submit"]{
 input[type="submit"]:hover{
     background: #ff5722;
     transform: 0s;
-}
+} */
 
 /* ******************************************************
 Mise en forme de la page resultat
